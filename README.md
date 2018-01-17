@@ -1,5 +1,5 @@
 # pythonchat
-messaging program
+Messaging Program
 <p>Big picture user story</p> 
 
 The users will use my app to send instant messages to each other.  The messages can consist of text, pictures, or videos.  When a message is opened, the user will get a “read” report.  Also, each message gets a time stamp.    
