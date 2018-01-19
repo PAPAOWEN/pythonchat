@@ -3,7 +3,7 @@ def list_of_the_users:
     if n == :
         return "message sent."
     else:
-        returnt "error: message not sent."
+        return "error: message not sent."
     
     
 users=("mikki, annie, stefenos, owen, tianhao, kayla, leo, justis, maikel, gen")
