@@ -7,3 +7,11 @@ The users will use my app to send instant messages to each other.  The messages 
 <p>Small picture user story (1st step)</p>
 
 The user opens the messaging app.  The prompt says “Enter recipient name”.  The user types the name of the person who they want to talk to and presses enter.  The next prompt says “Type message”.  The user then types their message and presses enter.  If the message is sent successfully, then the prompt says “Message sent to (recipient name)”.  If it does not send successfully, then the prompt says “Error: Message not sent”.
+
+<p> Testing plan </p>
+Prompt says enter username, user types"user".  Next, the prompt asks "who do you want to send 
+
+<p> reflections and revisions </p>
+
+<p> next steps </p>
+ (create a list of messages; sender,reciever, and message)
